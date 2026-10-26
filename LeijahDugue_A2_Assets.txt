@@ -1,0 +1,14 @@
+References:
+Sand, AmbientCG: https://ambientcg.com/view?id=Ground080
+Grass, AmbientCG: https://ambientcg.com/view?id=Grass004
+Rock, AmbientCG: https://ambientcg.com/view?id=Rock030
+
+Mobile_Trees, Tree Master, FAB: https://fab.com/s/2255fcc30da9
+Nanite_Plants_Sample_Collection, 3DGardenPlants, FAB: https://fab.com/s/4bb41e28ac7f
+Picnic Bench, Yeho Studios, FAB: https://fab.com/s/4423242c6cea
+
+
+S_Music_Forest, CleytonKauffman, OpenGameArt: https://opengameart.org/content/underwater-theme
+S_Music_Mountain, hencefox, OpenGameArt: https://opengameart.org/content/appalachian-sunrise
+S_Mountain_Wind_01, Luke.RUSTLTD, OpenGameArt: https://opengameart.org/content/wind1
+S_Water_Waves_01, transitking, OpenGameArt: https://opengameart.org/content/water-waves
